@@ -59,11 +59,13 @@ figures can be regenerated without re-running training or image generation.
 
 ## Data and weights (not included)
 
-The four datasets (Anime-Student, WikiArt-Mixed, DreamBooth-Mixed,
-DreamBooth-Single) are derived from third-party sources and are **not
-redistributed here**; please obtain them under their original licenses. Trained
-LoRA adapters and Stable Diffusion / SDXL weights are likewise not included;
-the base models are available from their official releases.
+The **Anime-Student** dataset was collected by the authors and is **not
+redistributed here**; it is available from the corresponding author upon
+reasonable request. The **WikiArt-Mixed**, **DreamBooth-Mixed**, and
+**DreamBooth-Single** datasets are derived from third-party sources and should
+be obtained under their original licenses. Trained LoRA adapters and Stable
+Diffusion / SDXL weights are not included; the base models are available from
+their official releases.
 
 ## Requirements
 
