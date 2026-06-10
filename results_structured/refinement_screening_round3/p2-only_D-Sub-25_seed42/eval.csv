@@ -1,0 +1,2 @@
+experiment,fid,clip_score,num_real,num_gen,gen_dir
+p2-only_D-Sub-25_seed42,312.2911,,25,24,kmc_lora\results\refinement_screening_round3\p2-only_D-Sub-25_seed42\generated

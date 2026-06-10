@@ -1,0 +1,2 @@
+experiment,fid,clip_score,num_real,num_gen,gen_dir
+Anti_Curriculum_seed42,220.8834,,300,200,e:\1 zhclian\AIGC 02\kmc_lora\results\robustness\wikiart_mixed\multi_seed\Anti_Curriculum_seed42\generated

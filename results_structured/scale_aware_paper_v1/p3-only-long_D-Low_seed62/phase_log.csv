@@ -1,0 +1,2 @@
+phase,steps,lr,image_list,elapsed_sec
+phase3,1200,2e-05,kmc_lora\artifacts\split_phases\D-Low\phase3.txt,669.3

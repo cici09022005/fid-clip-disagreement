@@ -1,0 +1,2 @@
+experiment,fid,clip_score,num_real,num_gen,gen_dir
+p2-only_D-High_seed52,220.4325,,300,200,kmc_lora\results\scale_aware_multidataset_v1\wikiart_mixed\p2-only_D-High_seed52\generated

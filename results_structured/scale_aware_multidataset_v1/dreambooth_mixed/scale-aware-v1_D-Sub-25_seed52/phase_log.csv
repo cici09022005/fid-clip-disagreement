@@ -1,0 +1,3 @@
+phase,steps,lr,image_list,elapsed_sec
+phase2,600,0.0001,kmc_lora\artifacts\dreambooth_mixed\split_phases\D-Sub-25\phase2.txt,210.1
+phase3_replay,200,2e-05,kmc_lora\results\scale_aware_multidataset_v1\dreambooth_mixed\scale-aware-v1_D-Sub-25_seed52\phase3_replay.txt,75.1

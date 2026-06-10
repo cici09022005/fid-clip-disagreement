@@ -1,0 +1,3 @@
+experiment,fid,clip_score,num_real,num_gen,gen_dir
+mini_KMC,273.8611,,200,30,kmc_lora/results/_mini_effect/gen_KMC
+mini_Random,278.8961,,200,30,kmc_lora/results/_mini_effect/gen_Random

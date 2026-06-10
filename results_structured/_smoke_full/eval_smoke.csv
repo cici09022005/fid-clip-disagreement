@@ -1,0 +1,3 @@
+experiment,fid,clip_score,num_real,num_gen,gen_dir
+smoke_phase1,540.8748,,50,2,kmc_lora/results/_smoke_full/gen_phase1
+smoke_phase2,443.3106,,50,2,kmc_lora/results/_smoke_full/gen_phase2

@@ -1,0 +1,2 @@
+experiment,fid,clip_score,num_real,num_gen,gen_dir
+scale-aware-v1_D-Medium_seed72,249.7042,,28,150,kmc_lora\results\scale_aware_multidataset_v1\dreambooth_mixed\scale-aware-v1_D-Medium_seed72\generated

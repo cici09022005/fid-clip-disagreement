@@ -1,0 +1,2 @@
+phase2,900,0.0001,kmc_lora\artifacts\wikiart_mixed\split_phases\D-Medium\phase2.txt,336.1
+phase3_replay,300,2e-05,kmc_lora\results\scale_aware_multidataset_v1\wikiart_mixed\p2-p3-replay_D-Medium_seed42\phase3_replay.txt,118.6

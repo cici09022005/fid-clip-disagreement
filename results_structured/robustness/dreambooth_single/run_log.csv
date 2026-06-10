@@ -1,0 +1,16 @@
+dataset,suite,strategy,split,seed,rank,total_steps,status,elapsed_sec,output_dir,fid,clip_score
+dreambooth_single,multi_seed,Random_D-High,D-High,42,4,600,ok,658.0,e:\1 zhclian\AIGC 02\kmc_lora\results\robustness\dreambooth_single\multi_seed\Random_D-High_seed42,112.1063,nan
+dreambooth_single,multi_seed,Random_D-High,D-High,52,4,600,ok,688.5,e:\1 zhclian\AIGC 02\kmc_lora\results\robustness\dreambooth_single\multi_seed\Random_D-High_seed52,94.2979,nan
+dreambooth_single,multi_seed,Random_D-High,D-High,62,4,600,ok,686.2,e:\1 zhclian\AIGC 02\kmc_lora\results\robustness\dreambooth_single\multi_seed\Random_D-High_seed62,118.5659,nan
+dreambooth_single,multi_seed,Random_D-High,D-High,72,4,600,ok,679.4,e:\1 zhclian\AIGC 02\kmc_lora\results\robustness\dreambooth_single\multi_seed\Random_D-High_seed72,113.0591,nan
+dreambooth_single,multi_seed,Random_D-High,D-High,82,4,600,ok,665.3,e:\1 zhclian\AIGC 02\kmc_lora\results\robustness\dreambooth_single\multi_seed\Random_D-High_seed82,138.3649,nan
+dreambooth_single,multi_seed,KMC_D-High,D-High,42,4,600,ok,669.6,kmc_lora\results\robustness\dreambooth_single\multi_seed\KMC_D-High_seed42,125.5074,nan
+dreambooth_single,multi_seed,KMC_D-High,D-High,52,4,600,ok,656.2,kmc_lora\results\robustness\dreambooth_single\multi_seed\KMC_D-High_seed52,123.6555,nan
+dreambooth_single,multi_seed,KMC_D-High,D-High,62,4,600,ok,660.4,kmc_lora\results\robustness\dreambooth_single\multi_seed\KMC_D-High_seed62,123.3591,nan
+dreambooth_single,multi_seed,KMC_D-High,D-High,72,4,600,ok,668.2,kmc_lora\results\robustness\dreambooth_single\multi_seed\KMC_D-High_seed72,119.4282,nan
+dreambooth_single,multi_seed,KMC_D-High,D-High,82,4,600,ok,684.5,kmc_lora\results\robustness\dreambooth_single\multi_seed\KMC_D-High_seed82,122.8562,nan
+dreambooth_single,multi_seed,Anti_Curriculum,,42,4,600,ok,670.6,kmc_lora\results\robustness\dreambooth_single\multi_seed\Anti_Curriculum_seed42,119.9286,nan
+dreambooth_single,multi_seed,Anti_Curriculum,,52,4,600,ok,671.0,kmc_lora\results\robustness\dreambooth_single\multi_seed\Anti_Curriculum_seed52,101.9623,nan
+dreambooth_single,multi_seed,Anti_Curriculum,,62,4,600,ok,672.2,kmc_lora\results\robustness\dreambooth_single\multi_seed\Anti_Curriculum_seed62,108.4686,nan
+dreambooth_single,multi_seed,Anti_Curriculum,,72,4,600,ok,670.9,kmc_lora\results\robustness\dreambooth_single\multi_seed\Anti_Curriculum_seed72,110.5077,nan
+dreambooth_single,multi_seed,Anti_Curriculum,,82,4,600,ok,675.6,kmc_lora\results\robustness\dreambooth_single\multi_seed\Anti_Curriculum_seed82,116.9844,nan

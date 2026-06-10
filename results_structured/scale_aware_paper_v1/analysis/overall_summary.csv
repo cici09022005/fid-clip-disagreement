@@ -1,0 +1,4 @@
+metric,value
+overall_avg_selected_mean_fid,243.719984
+overall_avg_best_single_mean_fid,244.937108
+overall_delta_selected_minus_best_single,-1.217123999999984

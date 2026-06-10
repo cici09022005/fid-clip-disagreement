@@ -1,0 +1,14 @@
+dataset,regime,best_fid_method,best_clip_method,fid_winner_fid,fid_winner_clip,clip_winner_fid,clip_winner_clip
+anime_student,D-High,KMC_D-High,Random_D-High,278.0247,0.2859,282.6263,0.299
+anime_student,D-Medium,KMC_D-Medium,Random_D-Medium,275.3778,0.2868,302.5827,0.2997
+anime_student,D-Low,KMC_D-Low,Random_D-Low,281.0663,0.2857,283.4179,0.2927
+anime_student,D-Sub-50,Random_D-Sub-50,KMC_D-Sub-50,274.8695,0.2828,277.3429,0.2859
+anime_student,D-Sub-25,Random_D-Sub-25,KMC_D-Sub-25,271.2796,0.2816,278.0589,0.2866
+wikiart_mixed,D-High,Random_D-High,KMC_D-High,276.2131,0.1732,286.3237,0.1761
+wikiart_mixed,D-Sub-25,KMC_D-Sub-25,Random_D-Sub-25,285.3737,0.1756,293.6335,0.1756
+dreambooth_mixed,D-Low,KMC_D-Low,Random_D-Low,261.9027,0.1483,265.7751,0.1695
+dreambooth_single,D-High,Random_D-High,KMC_D-High,105.4556,0.2672,185.887,0.2788
+dreambooth_single,D-Medium,Random_D-Medium,KMC_D-Medium,121.8991,0.2733,184.8121,0.2785
+dreambooth_single,D-Low,Random_D-Low,KMC_D-Low,142.659,0.2641,186.0934,0.2792
+dreambooth_single,D-Sub-50,Random_D-Sub-50,KMC_D-Sub-50,95.467,0.2636,185.4178,0.2785
+dreambooth_single,D-Sub-25,Random_D-Sub-25,KMC_D-Sub-25,101.347,0.2755,185.735,0.2783

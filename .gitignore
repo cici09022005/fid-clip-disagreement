@@ -1,0 +1,22 @@
+# Large / binary artifacts not tracked in this repository
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.npy
+*.npz
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db

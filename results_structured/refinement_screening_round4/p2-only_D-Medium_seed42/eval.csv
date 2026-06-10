@@ -1,0 +1,2 @@
+experiment,fid,clip_score,num_real,num_gen,gen_dir
+p2-only_D-Medium_seed42,313.0636,,100,24,kmc_lora\results\refinement_screening_round4\p2-only_D-Medium_seed42\generated

@@ -1,0 +1,13 @@
+dataset,strategy,seed,fid,clip_similarity
+wikiart_mixed,Random,42,306.0828,0.1583
+wikiart_mixed,Random,52,316.9533,0.1617
+wikiart_mixed,Random,62,312.7423,0.1514
+wikiart_mixed,KMC,42,314.106,0.1568
+wikiart_mixed,KMC,52,303.276,0.1613
+wikiart_mixed,KMC,62,314.1016,0.1597
+dreambooth_mixed,Random,42,221.9922,0.1824
+dreambooth_mixed,Random,52,221.9693,0.1878
+dreambooth_mixed,Random,62,230.7055,0.1815
+dreambooth_mixed,KMC,42,237.0481,0.179
+dreambooth_mixed,KMC,52,244.6633,0.1829
+dreambooth_mixed,KMC,62,249.2294,0.1772

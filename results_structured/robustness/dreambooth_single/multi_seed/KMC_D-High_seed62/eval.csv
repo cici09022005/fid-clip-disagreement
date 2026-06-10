@@ -1,0 +1,2 @@
+experiment,fid,clip_score,num_real,num_gen,gen_dir
+KMC_D-High_seed62,123.3591,,5,150,kmc_lora\results\robustness\dreambooth_single\multi_seed\KMC_D-High_seed62\generated

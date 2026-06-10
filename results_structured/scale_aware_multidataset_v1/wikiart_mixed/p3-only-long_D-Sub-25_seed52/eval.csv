@@ -1,0 +1,2 @@
+experiment,fid,clip_score,num_real,num_gen,gen_dir
+p3-only-long_D-Sub-25_seed52,298.1958,,25,200,kmc_lora\results\scale_aware_multidataset_v1\wikiart_mixed\p3-only-long_D-Sub-25_seed52\generated

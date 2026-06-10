@@ -1,0 +1,16 @@
+experiment,status,start_time,end_time,duration_min,image_list,steps,lr
+KMC_D-High_phase1,ok,2026-03-19T14:02:45.372443,2026-03-19T14:06:57.390290,4.20,kmc_lora\artifacts\split_phases\D-High\phase1.txt,480,5e-05
+KMC_D-High_phase2,ok,2026-03-19T14:06:57.390290,2026-03-19T14:09:58.710922,3.02,kmc_lora\artifacts\split_phases\D-High\phase2.txt,420,0.0001
+KMC_D-High_phase3,ok,2026-03-19T14:09:58.710922,2026-03-19T14:12:42.476532,2.73,kmc_lora\artifacts\split_phases\D-High\phase3.txt,300,2e-05
+KMC_D-Medium_phase1,ok,2026-03-19T14:12:42.476532,2026-03-19T14:16:26.898856,3.74,kmc_lora\artifacts\split_phases\D-Medium\phase1.txt,480,5e-05
+KMC_D-Medium_phase2,ok,2026-03-19T14:16:26.900340,2026-03-19T14:19:27.280338,3.01,kmc_lora\artifacts\split_phases\D-Medium\phase2.txt,420,0.0001
+KMC_D-Medium_phase3,ok,2026-03-19T14:19:27.282375,2026-03-19T14:22:11.148451,2.73,kmc_lora\artifacts\split_phases\D-Medium\phase3.txt,300,2e-05
+KMC_D-Low_phase1,ok,2026-03-19T14:22:11.148451,2026-03-19T14:27:40.166932,5.48,kmc_lora\artifacts\split_phases\D-Low\phase1.txt,480,5e-05
+KMC_D-Low_phase2,ok,2026-03-19T14:27:40.166932,2026-03-19T14:32:33.410553,4.89,kmc_lora\artifacts\split_phases\D-Low\phase2.txt,420,0.0001
+KMC_D-Low_phase3,ok,2026-03-19T14:32:33.410553,2026-03-19T14:43:19.319664,10.77,kmc_lora\artifacts\split_phases\D-Low\phase3.txt,300,2e-05
+KMC_D-Sub-50_phase1,ok,2026-03-19T14:43:19.319664,2026-03-19T14:52:36.695873,9.29,kmc_lora\artifacts\split_phases\D-Sub-50\phase1.txt,480,5e-05
+KMC_D-Sub-50_phase2,ok,2026-03-19T14:52:36.695873,2026-03-19T14:57:10.637169,4.57,kmc_lora\artifacts\split_phases\D-Sub-50\phase2.txt,420,0.0001
+KMC_D-Sub-50_phase3,ok,2026-03-19T14:57:10.637169,2026-03-19T15:04:05.209437,6.91,kmc_lora\artifacts\split_phases\D-Sub-50\phase3.txt,300,2e-05
+KMC_D-Sub-25_phase1,ok,2026-03-19T15:04:05.210820,2026-03-19T15:18:22.784485,14.29,kmc_lora\artifacts\split_phases\D-Sub-25\phase1.txt,480,5e-05
+KMC_D-Sub-25_phase2,ok,2026-03-19T15:18:22.784485,2026-03-19T15:24:50.215262,6.46,kmc_lora\artifacts\split_phases\D-Sub-25\phase2.txt,420,0.0001
+KMC_D-Sub-25_phase3,ok,2026-03-19T15:24:50.215262,2026-03-19T15:33:43.751256,8.89,kmc_lora\artifacts\split_phases\D-Sub-25\phase3.txt,300,2e-05

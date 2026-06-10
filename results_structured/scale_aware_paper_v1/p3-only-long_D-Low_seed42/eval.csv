@@ -1,0 +1,2 @@
+experiment,fid,clip_score,num_real,num_gen,gen_dir
+p3-only-long_D-Low_seed42,235.0223,,102,300,kmc_lora\results\scale_aware_paper_v1\p3-only-long_D-Low_seed42\generated

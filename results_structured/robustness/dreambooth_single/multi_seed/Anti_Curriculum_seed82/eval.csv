@@ -1,0 +1,2 @@
+experiment,fid,clip_score,num_real,num_gen,gen_dir
+Anti_Curriculum_seed82,116.9844,,5,150,kmc_lora\results\robustness\dreambooth_single\multi_seed\Anti_Curriculum_seed82\generated

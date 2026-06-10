@@ -1,0 +1,8 @@
+datasets\processed\wikiart_mixed\Ukiyo_e\Ukiyo_e_0026.png
+datasets\processed\wikiart_mixed\Ukiyo_e\Ukiyo_e_0016.png
+datasets\processed\wikiart_mixed\Ukiyo_e\Ukiyo_e_0011.png
+datasets\processed\wikiart_mixed\Cubism\Cubism_0008.png
+datasets\processed\wikiart_mixed\Cubism\Cubism_0051.png
+datasets\processed\wikiart_mixed\Northern_Renaissance\Northern_Renaissance_0039.png
+datasets\processed\wikiart_mixed\Northern_Renaissance\Northern_Renaissance_0048.png
+datasets\processed\wikiart_mixed\Impressionism\Impressionism_0057.png

@@ -1,0 +1,2 @@
+dataset,split,seed,method,attempt,status,exit_code,elapsed_sec,exp_dir
+wikiart_mixed,D-Sub-50,42,scale-aware-v1,1,ok,0,12.8,kmc_lora\results\scale_aware_multidataset_v1\wikiart_mixed\scale-aware-v1_D-Sub-50_seed42

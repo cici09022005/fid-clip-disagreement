@@ -1,0 +1,2 @@
+experiment,fid,clip_score,num_real,num_gen,gen_dir
+p2-p3-replay_D-Sub-50_seed42,297.6352,,50,300,kmc_lora\results\scale_aware_paper_v1\p2-p3-replay_D-Sub-50_seed42\generated

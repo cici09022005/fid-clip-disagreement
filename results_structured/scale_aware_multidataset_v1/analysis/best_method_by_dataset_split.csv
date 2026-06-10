@@ -1,0 +1,11 @@
+dataset,split,best_method,best_mean_fid
+wikiart_mixed,D-High,p2-only,217.6792
+wikiart_mixed,D-Medium,p2-p3-replay,220.0668
+wikiart_mixed,D-Low,p2-p3-replay,242.7978
+wikiart_mixed,D-Sub-50,p3-only-long,273.6873
+wikiart_mixed,D-Sub-25,p2-only,293.5726
+dreambooth_mixed,D-High,p2-only,227.3164
+dreambooth_mixed,D-Medium,p2-p3-replay,225.218
+dreambooth_mixed,D-Low,p3-only-long,280.5364
+dreambooth_mixed,D-Sub-50,p2-only,230.07
+dreambooth_mixed,D-Sub-25,p2-only,237.3581

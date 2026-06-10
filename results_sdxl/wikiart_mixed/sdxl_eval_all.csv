@@ -1,0 +1,7 @@
+experiment,fid,clip_score,num_real,num_gen,gen_dir
+Random_D-High_s42,306.0828,0.1583,300,40,kmc_lora\results_sdxl\wikiart_mixed\Random_D-High_s42\generated
+KMC_D-High_s42,314.106,0.1568,300,40,kmc_lora\results_sdxl\wikiart_mixed\KMC_D-High_s42\generated
+Random_D-High_s52,316.9533,0.1617,300,40,kmc_lora\results_sdxl\wikiart_mixed\Random_D-High_s52\generated
+KMC_D-High_s52,303.276,0.1613,300,40,kmc_lora\results_sdxl\wikiart_mixed\KMC_D-High_s52\generated
+Random_D-High_s62,312.7423,0.1514,300,40,kmc_lora\results_sdxl\wikiart_mixed\Random_D-High_s62\generated
+KMC_D-High_s62,314.1016,0.1597,300,40,kmc_lora\results_sdxl\wikiart_mixed\KMC_D-High_s62\generated

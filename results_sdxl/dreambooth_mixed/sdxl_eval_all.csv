@@ -1,0 +1,7 @@
+experiment,fid,clip_score,num_real,num_gen,gen_dir
+Random_D-High_s42,221.9922,0.1824,31,30,kmc_lora\results_sdxl\dreambooth_mixed\Random_D-High_s42\generated
+KMC_D-High_s42,237.0481,0.179,31,30,kmc_lora\results_sdxl\dreambooth_mixed\KMC_D-High_s42\generated
+Random_D-High_s52,221.9693,0.1878,31,30,kmc_lora\results_sdxl\dreambooth_mixed\Random_D-High_s52\generated
+KMC_D-High_s52,244.6633,0.1829,31,30,kmc_lora\results_sdxl\dreambooth_mixed\KMC_D-High_s52\generated
+Random_D-High_s62,230.7055,0.1815,31,30,kmc_lora\results_sdxl\dreambooth_mixed\Random_D-High_s62\generated
+KMC_D-High_s62,249.2294,0.1772,31,30,kmc_lora\results_sdxl\dreambooth_mixed\KMC_D-High_s62\generated

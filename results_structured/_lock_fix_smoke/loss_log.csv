@@ -1,0 +1,2 @@
+step,epoch,loss,lr,elapsed_sec,gpu_mem_MB
+1,0,0.364796,1.00e-04,141.9,7214

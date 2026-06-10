@@ -1,0 +1,2 @@
+phase,steps,lr,image_list,elapsed_sec
+phase2,800,0.0001,kmc_lora\artifacts\dreambooth_mixed\split_phases\D-High\phase2.txt,278.4
