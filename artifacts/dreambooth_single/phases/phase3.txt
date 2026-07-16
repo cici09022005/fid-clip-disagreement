@@ -1,0 +1,2 @@
+datasets\processed\dreambooth_single\dog_004.png
+datasets\processed\dreambooth_single\dog_000.png

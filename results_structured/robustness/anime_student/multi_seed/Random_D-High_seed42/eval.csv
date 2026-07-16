@@ -1,0 +1,6 @@
+experiment,fid,clip_score,num_real,num_gen,gen_dir
+smoke_eval,284.3547,,200,50,<project_root>\kmc_lora\results\robustness\anime_student\multi_seed\Random_D-High_seed42\generated
+Random_D-High_seed42,231.3141,,500,150,<project_root>\kmc_lora\results\robustness\anime_student\multi_seed\Random_D-High_seed42\generated
+Random_D-High_seed42,237.2946,,500,150,<project_root>\kmc_lora\results\robustness\anime_student\multi_seed\Random_D-High_seed42\generated
+Random_D-High_seed42,230.4189,,500,150,<project_root>\kmc_lora\results\robustness\anime_student\multi_seed\Random_D-High_seed42\generated
+Random_D-High_seed42,235.9416,,500,150,<project_root>\kmc_lora\results\robustness\anime_student\multi_seed\Random_D-High_seed42\generated

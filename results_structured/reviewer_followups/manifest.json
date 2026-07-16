@@ -1,0 +1,85 @@
+{
+  "timestamp": 1775004494.0776086,
+  "highsample_cases": [
+    {
+      "dataset": "anime_student",
+      "strategy": "random:D-Medium"
+    },
+    {
+      "dataset": "anime_student",
+      "strategy": "hac:D-Medium"
+    },
+    {
+      "dataset": "wikiart_mixed",
+      "strategy": "random:D-High"
+    },
+    {
+      "dataset": "wikiart_mixed",
+      "strategy": "hac:D-High"
+    },
+    {
+      "dataset": "dreambooth_mixed",
+      "strategy": "random:D-High"
+    },
+    {
+      "dataset": "dreambooth_mixed",
+      "strategy": "hac:D-High"
+    },
+    {
+      "dataset": "dreambooth_single",
+      "strategy": "random:D-High"
+    },
+    {
+      "dataset": "dreambooth_single",
+      "strategy": "hac:D-High"
+    }
+  ],
+  "multiseed_cases": [
+    {
+      "dataset": "anime_student",
+      "strategies": [
+        "random:D-Medium",
+        "hac:D-Medium"
+      ]
+    },
+    {
+      "dataset": "wikiart_mixed",
+      "strategies": [
+        "random:D-High",
+        "hac:D-High"
+      ]
+    },
+    {
+      "dataset": "dreambooth_mixed",
+      "strategies": [
+        "random:D-High",
+        "hac:D-High"
+      ]
+    },
+    {
+      "dataset": "dreambooth_single",
+      "strategies": [
+        "random:D-High",
+        "hac:D-High"
+      ]
+    }
+  ],
+  "highsample_num_per_prompt": 50,
+  "sensitivity_num_per_prompt": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ],
+  "multiseed_seeds": [
+    42,
+    52,
+    62
+  ],
+  "multiseed_num_per_prompt": 50,
+  "generation_seed": 42,
+  "max_real": 500,
+  "inference_steps": 30,
+  "guidance_scale": 7.5
+}

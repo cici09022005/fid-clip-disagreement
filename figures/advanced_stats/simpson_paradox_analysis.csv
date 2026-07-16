@@ -1,0 +1,5 @@
+dataset,overall_rho,avg_within_regime_rho,simpson_detected,n_regimes
+anime_student,0.7026365514411755,,False,0
+wikiart_mixed,-0.043077322754765855,,False,0
+dreambooth_mixed,-0.42111796397193313,,False,0
+dreambooth_single,0.5337427330670586,,False,0

@@ -1,0 +1,4 @@
+wikiart_mixed,kmc_lora/configs/wikiart_mixed_scale_aware_local.yaml,fail,1,27.4,1774311541.353,1774311568.708,kmc_lora\results\scale_aware_multidataset_v1\wikiart_mixed
+wikiart_mixed,kmc_lora/configs/wikiart_mixed_scale_aware_local.yaml,fail,1,0.7,1774315895.527,1774315896.249,kmc_lora\results\scale_aware_multidataset_v1\wikiart_mixed
+wikiart_mixed,kmc_lora/configs/wikiart_mixed_scale_aware_local.yaml,fail,1,9881.2,1774316530.384,1774326411.567,kmc_lora\results\scale_aware_multidataset_v1\wikiart_mixed
+wikiart_mixed,kmc_lora/configs/wikiart_mixed_scale_aware_local.yaml,fail,1,6557.9,1774330802.697,1774337360.636,kmc_lora\results\scale_aware_multidataset_v1\wikiart_mixed

@@ -1,0 +1,49 @@
+﻿experiment:
+  name: kmc_lora_full
+  seed: 42
+
+paths:
+  dataset_dir: extracted_images
+  artifacts_dir: kmc_lora\\artifacts
+  results_dir: kmc_lora\\results
+
+model:
+  base_model: runwayml/stable-diffusion-v1-5
+  use_fp16: true
+  resolution: 512
+  train_batch_size: 2
+  gradient_accumulation_steps: 4
+  max_train_steps: 1200
+  save_steps: 200
+  lora_rank: 16
+  lora_alpha: 16
+  lora_dropout: 0.05
+  max_gpu_memory_fraction: 0.80
+
+prompts:
+  instance_prompt: "a hand-drawn anime storyboard, clean line art"
+  validation_prompts:
+    - "a hand-drawn anime storyboard of a brave knight"
+    - "a hand-drawn anime storyboard of a city at night"
+    - "a hand-drawn anime storyboard of a forest spirit"
+
+curriculum:
+  phase1_ratio: 0.4
+  phase2_ratio: 0.35
+  phase3_ratio: 0.25
+  k_range: [3, 15]
+  typicality_power: 1.0
+  quality_weight: 0.5
+  typicality_weight: 0.3
+  heterogeneity_weight: 0.2
+
+quality:
+  use_aesthetics: false
+  aesthetics_model_url: "https://github.com/LAION-AI/aesthetic-predictor/raw/main/sa_0_4_vit_l_14_linear.pth"
+
+splits:
+  d_high_ratio: 1.0
+  d_medium_keep_percentile: 90
+  d_low_largest_cluster: true
+  sub_50: 50
+  sub_25: 25

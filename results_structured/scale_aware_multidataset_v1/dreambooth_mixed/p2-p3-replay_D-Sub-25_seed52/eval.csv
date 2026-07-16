@@ -1,0 +1,2 @@
+experiment,fid,clip_score,num_real,num_gen,gen_dir
+p2-p3-replay_D-Sub-25_seed52,241.228,,15,150,kmc_lora\results\scale_aware_multidataset_v1\dreambooth_mixed\p2-p3-replay_D-Sub-25_seed52\generated

@@ -1,0 +1,13 @@
+dataset,strategy,fid_mean,fid_std
+Anime Student,Random_D-High,220.3261,24.5618
+Anime Student,KMC_D-High,242.3183,12.0428
+Anime Student,Anti_Curriculum,243.1839,15.2288
+WikiArt Mixed,Random_D-High,218.5046,5.5476
+WikiArt Mixed,KMC_D-High,217.7545,2.1034
+WikiArt Mixed,Anti_Curriculum,217.6138,2.8904
+DB Mixed,Random_D-High,220.6085,0.9616
+DB Mixed,KMC_D-High,228.6182,3.4773
+DB Mixed,Anti_Curriculum,225.0957,4.5628
+DB Single,Random_D-High,115.2788,15.8032
+DB Single,KMC_D-High,122.9613,2.2145
+DB Single,Anti_Curriculum,111.5703,7.1105

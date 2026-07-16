@@ -1,0 +1,6 @@
+path,orig_path,width,height,mode,format
+datasets\processed\dreambooth_single\dog_000.png,datasets\processed\dreambooth_single\dog_000.png,780,780,RGB,png
+datasets\processed\dreambooth_single\dog_001.png,datasets\processed\dreambooth_single\dog_001.png,781,781,RGB,png
+datasets\processed\dreambooth_single\dog_002.png,datasets\processed\dreambooth_single\dog_002.png,780,780,RGB,png
+datasets\processed\dreambooth_single\dog_003.png,datasets\processed\dreambooth_single\dog_003.png,780,780,RGB,png
+datasets\processed\dreambooth_single\dog_004.png,datasets\processed\dreambooth_single\dog_004.png,687,687,RGB,png

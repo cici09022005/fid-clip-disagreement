@@ -1,0 +1,12 @@
+{
+  "experiment": "HAC_D-High::sensitivity::150",
+  "fid": 230.7928,
+  "clip_score": 0.1649,
+  "clip_score_avg_text": 0.1649,
+  "clip_score_per_prompt": 0.339,
+  "clip_score_num_pairs": 150,
+  "num_real": 31,
+  "num_gen": 150,
+  "balance_by_prompt": true,
+  "gen_dir": "e:\\<user>\\AIGC 02\\hac_lora\\results\\reviewer_followups\\highsample\\dreambooth_mixed\\HAC_D-High\\generated_npp50_seed42"
+}

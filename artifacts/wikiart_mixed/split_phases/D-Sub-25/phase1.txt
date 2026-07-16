@@ -1,0 +1,10 @@
+datasets\processed\wikiart_mixed\Cubism\Cubism_0051.png
+datasets\processed\wikiart_mixed\Cubism\Cubism_0003.png
+datasets\processed\wikiart_mixed\Cubism\Cubism_0008.png
+datasets\processed\wikiart_mixed\Cubism\Cubism_0030.png
+datasets\processed\wikiart_mixed\Cubism\Cubism_0002.png
+datasets\processed\wikiart_mixed\Cubism\Cubism_0038.png
+datasets\processed\wikiart_mixed\Cubism\Cubism_0057.png
+datasets\processed\wikiart_mixed\Cubism\Cubism_0032.png
+datasets\processed\wikiart_mixed\Ukiyo_e\Ukiyo_e_0016.png
+datasets\processed\wikiart_mixed\Pop_Art\Pop_Art_0029.png

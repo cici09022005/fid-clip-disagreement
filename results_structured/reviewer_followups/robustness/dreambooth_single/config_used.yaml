@@ -1,0 +1,49 @@
+# Local offline config for multi-dataset scale-aware experiments
+experiment:
+  name: hac_lora_dreambooth_single
+  seed: 42
+
+paths:
+  dataset_dir: datasets\processed\dreambooth_single
+  artifacts_dir: hac_lora\artifacts\dreambooth_single
+  results_dir: hac_lora\results\dreambooth_single
+
+model:
+  base_model: models/sd15
+  use_fp16: true
+  resolution: 512
+  train_batch_size: 1
+  gradient_accumulation_steps: 2
+  max_train_steps: 600
+  save_steps: 100
+  lora_rank: 4
+  lora_alpha: 4
+  lora_dropout: 0.05
+
+prompts:
+  instance_prompt: "a photo of a sks dog"
+  validation_prompts:
+    - "a photo of a sks dog on the beach"
+    - "a photo of a sks dog in a garden"
+    - "a photo of a sks dog wearing a hat"
+
+curriculum:
+  phase1_ratio: 0.4
+  phase2_ratio: 0.35
+  phase3_ratio: 0.25
+  k_range: [2, 4]
+  typicality_power: 1.0
+  quality_weight: 0.5
+  typicality_weight: 0.3
+  heterogeneity_weight: 0.2
+
+quality:
+  use_aesthetics: false
+  aesthetics_model_url: "https://github.com/LAION-AI/aesthetic-predictor/raw/main/sa_0_4_vit_l_14_linear.pth"
+
+splits:
+  d_high_ratio: 1.0
+  d_medium_keep_percentile: 100
+  d_low_largest_cluster: true
+  sub_50: 5
+  sub_25: 5

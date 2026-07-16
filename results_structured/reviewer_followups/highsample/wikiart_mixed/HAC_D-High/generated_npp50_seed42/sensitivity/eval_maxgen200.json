@@ -1,0 +1,12 @@
+{
+  "experiment": "HAC_D-High::sensitivity::200",
+  "fid": 222.4956,
+  "clip_score": 0.173,
+  "clip_score_avg_text": 0.173,
+  "clip_score_per_prompt": 0.3347,
+  "clip_score_num_pairs": 200,
+  "num_real": 300,
+  "num_gen": 200,
+  "balance_by_prompt": true,
+  "gen_dir": "e:\\<user>\\AIGC 02\\hac_lora\\results\\reviewer_followups\\highsample\\wikiart_mixed\\HAC_D-High\\generated_npp50_seed42"
+}

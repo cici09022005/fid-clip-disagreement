@@ -1,0 +1,6 @@
+path,orig_path,width,height,mode,format,cluster,typicality,heterogeneity,quality,difficulty,phase
+datasets\processed\dreambooth_single\dog_002.png,datasets\processed\dreambooth_single\dog_002.png,780,780,RGB,png,1,0.8316786,0.0,0.7229451,0.18902386999999998,1
+datasets\processed\dreambooth_single\dog_003.png,datasets\processed\dreambooth_single\dog_003.png,780,780,RGB,png,1,0.47315165,0.0,0.74955696,0.283276025,1
+datasets\processed\dreambooth_single\dog_001.png,datasets\processed\dreambooth_single\dog_001.png,781,781,RGB,png,0,0.9999996,1.0,0.40683886,0.49658069,2
+datasets\processed\dreambooth_single\dog_004.png,datasets\processed\dreambooth_single\dog_004.png,687,687,RGB,png,1,0.0,0.0,0.6,0.5,3
+datasets\processed\dreambooth_single\dog_000.png,datasets\processed\dreambooth_single\dog_000.png,780,780,RGB,png,0,0.9999996,1.0,0.39574468,0.50212778,3

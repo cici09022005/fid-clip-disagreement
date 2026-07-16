@@ -1,0 +1,2 @@
+phase,steps,lr,image_list,elapsed_sec
+phase3,800,2e-05,kmc_lora\artifacts\dreambooth_mixed\split_phases\D-Sub-50\phase3.txt,276.6

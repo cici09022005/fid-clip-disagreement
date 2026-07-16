@@ -1,0 +1,2 @@
+experiment,fid,clip_score,num_real,num_gen,gen_dir
+p3-only-long_D-Medium_seed82,226.0691,,270,200,kmc_lora\results\scale_aware_multidataset_v1\wikiart_mixed\p3-only-long_D-Medium_seed82\generated

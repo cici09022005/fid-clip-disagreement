@@ -1,0 +1,21 @@
+dataset,regime,n_methods,fid_range,clip_range,best_fid,best_clip,correlation
+anime_student,D-High,2,"[278.0, 282.6]","[0.286, 0.299]",KMC_D-High,Random_D-High,0.9999999999999938
+anime_student,D-Medium,2,"[275.4, 302.6]","[0.287, 0.300]",KMC_D-Medium,Random_D-Medium,1.000000000000001
+anime_student,D-Low,2,"[281.1, 283.4]","[0.286, 0.293]",KMC_D-Low,Random_D-Low,1.0
+anime_student,D-Sub-50,2,"[274.9, 277.3]","[0.283, 0.286]",Random_D-Sub-50,KMC_D-Sub-50,1.0
+anime_student,D-Sub-25,2,"[271.3, 278.1]","[0.282, 0.287]",Random_D-Sub-25,KMC_D-Sub-25,1.000000000000004
+wikiart_mixed,D-High,2,"[276.2, 286.3]","[0.173, 0.176]",Random_D-High,KMC_D-High,1.0
+wikiart_mixed,D-Medium,2,"[279.6, 286.2]","[0.176, 0.177]",Random_D-Medium,Random_D-Medium,-0.9999999999999956
+wikiart_mixed,D-Low,2,"[269.5, 286.1]","[0.176, 0.179]",Random_D-Low,Random_D-Low,-0.9999999999999999
+wikiart_mixed,D-Sub-50,2,"[280.1, 286.2]","[0.176, 0.177]",Random_D-Sub-50,Random_D-Sub-50,-1.0000000000000047
+wikiart_mixed,D-Sub-25,2,"[285.4, 293.6]","[0.176, 0.176]",KMC_D-Sub-25,Random_D-Sub-25,
+dreambooth_mixed,D-High,2,"[241.8, 261.6]","[0.147, 0.159]",Random_D-High,Random_D-High,-0.9999999999999988
+dreambooth_mixed,D-Medium,2,"[248.0, 260.8]","[0.148, 0.165]",Random_D-Medium,Random_D-Medium,-0.9999999999999982
+dreambooth_mixed,D-Low,2,"[261.9, 265.8]","[0.148, 0.170]",KMC_D-Low,Random_D-Low,1.0000000000000067
+dreambooth_mixed,D-Sub-50,2,"[248.1, 260.9]","[0.148, 0.166]",Random_D-Sub-50,Random_D-Sub-50,-0.9999999999999988
+dreambooth_mixed,D-Sub-25,2,"[246.1, 261.9]","[0.147, 0.176]",Random_D-Sub-25,Random_D-Sub-25,-1.0
+dreambooth_single,D-High,2,"[105.5, 185.9]","[0.267, 0.279]",Random_D-High,KMC_D-High,0.9999999999999977
+dreambooth_single,D-Medium,2,"[121.9, 184.8]","[0.273, 0.279]",Random_D-Medium,KMC_D-Medium,0.9999999999999946
+dreambooth_single,D-Low,2,"[142.7, 186.1]","[0.264, 0.279]",Random_D-Low,KMC_D-Low,0.9999999999999998
+dreambooth_single,D-Sub-50,2,"[95.5, 185.4]","[0.264, 0.279]",Random_D-Sub-50,KMC_D-Sub-50,0.9999999999999999
+dreambooth_single,D-Sub-25,2,"[101.3, 185.7]","[0.276, 0.278]",Random_D-Sub-25,KMC_D-Sub-25,0.9999999999999899

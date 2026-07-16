@@ -1,0 +1,3 @@
+dataset,avg_best_explicit_baseline_fid,avg_scaleaware_fid,delta_scaleaware_minus_best_explicit
+wikiart_mixed,249.5607,264.8304,15.2697
+dreambooth_mixed,240.0998,237.3594,-2.7404

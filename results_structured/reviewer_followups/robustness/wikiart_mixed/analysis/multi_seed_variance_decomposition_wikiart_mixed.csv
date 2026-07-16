@@ -1,0 +1,2 @@
+dataset,num_runs,num_strategies,strategy_variance_ratio,randomness_variance_ratio
+wikiart_mixed,6,2,0.004864250907709436,0.9951357490922905

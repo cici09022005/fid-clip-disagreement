@@ -1,0 +1,2 @@
+dataset,num_runs,num_strategies,strategy_variance_ratio,randomness_variance_ratio
+dreambooth_mixed,6,2,0.785415126513115,0.2145848734868851

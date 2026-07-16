@@ -1,0 +1,7 @@
+dataset,suite,strategy,split,seed,rank,total_steps,status,elapsed_sec,output_dir,fid,clip_score
+wikiart_mixed,multi_seed,Random_D-High,D-High,42,16,1200,cached,0.0,<project_root>\hac_lora\results\reviewer_followups\robustness\wikiart_mixed\multi_seed\Random_D-High_seed42,210.8615,0.1771
+wikiart_mixed,multi_seed,Random_D-High,D-High,52,16,1200,ok,1093.8,<project_root>\hac_lora\results\reviewer_followups\robustness\wikiart_mixed\multi_seed\Random_D-High_seed52,226.0063,0.1712
+wikiart_mixed,multi_seed,Random_D-High,D-High,62,16,1200,ok,1096.4,<project_root>\hac_lora\results\reviewer_followups\robustness\wikiart_mixed\multi_seed\Random_D-High_seed62,218.9473,0.1749
+wikiart_mixed,multi_seed,HAC_D-High,D-High,42,16,1200,ok,1099.7,<project_root>\hac_lora\results\reviewer_followups\robustness\wikiart_mixed\multi_seed\HAC_D-High_seed42,216.4678,0.1749
+wikiart_mixed,multi_seed,HAC_D-High,D-High,52,16,1200,ok,1103.5,<project_root>\hac_lora\results\reviewer_followups\robustness\wikiart_mixed\multi_seed\HAC_D-High_seed52,220.0527,0.1737
+wikiart_mixed,multi_seed,HAC_D-High,D-High,62,16,1200,ok,1103.7,<project_root>\hac_lora\results\reviewer_followups\robustness\wikiart_mixed\multi_seed\HAC_D-High_seed62,217.4048,0.1725

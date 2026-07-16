@@ -1,0 +1,12 @@
+{
+  "experiment": "HAC_D-Medium::sensitivity::90",
+  "fid": 255.8502,
+  "clip_score": 0.3076,
+  "clip_score_avg_text": 0.3076,
+  "clip_score_per_prompt": 0.3362,
+  "clip_score_num_pairs": 90,
+  "num_real": 500,
+  "num_gen": 90,
+  "balance_by_prompt": true,
+  "gen_dir": "e:\\<user>\\AIGC 02\\hac_lora\\results\\reviewer_followups\\highsample\\anime_student\\HAC_D-Medium\\generated_npp50_seed42"
+}

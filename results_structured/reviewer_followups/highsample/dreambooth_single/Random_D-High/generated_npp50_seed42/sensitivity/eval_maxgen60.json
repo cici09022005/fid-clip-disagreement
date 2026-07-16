@@ -1,0 +1,12 @@
+{
+  "experiment": "Random_D-High::sensitivity::60",
+  "fid": 103.9342,
+  "clip_score": 0.2675,
+  "clip_score_avg_text": 0.2675,
+  "clip_score_per_prompt": 0.2863,
+  "clip_score_num_pairs": 60,
+  "num_real": 5,
+  "num_gen": 60,
+  "balance_by_prompt": true,
+  "gen_dir": "e:\\<user>\\AIGC 02\\hac_lora\\results\\reviewer_followups\\highsample\\dreambooth_single\\Random_D-High\\generated_npp50_seed42"
+}

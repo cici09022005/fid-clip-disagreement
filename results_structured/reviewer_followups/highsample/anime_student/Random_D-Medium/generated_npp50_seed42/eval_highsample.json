@@ -1,0 +1,12 @@
+{
+  "experiment": "anime_student::Random_D-Medium::highsample",
+  "fid": 222.2274,
+  "clip_score": 0.2983,
+  "clip_score_avg_text": 0.2983,
+  "clip_score_per_prompt": 0.3322,
+  "clip_score_num_pairs": 150,
+  "num_real": 500,
+  "num_gen": 150,
+  "balance_by_prompt": false,
+  "gen_dir": "e:\\<user>\\AIGC 02\\hac_lora\\results\\reviewer_followups\\highsample\\anime_student\\Random_D-Medium\\generated_npp50_seed42"
+}

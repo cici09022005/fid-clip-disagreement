@@ -1,0 +1,2 @@
+experiment,fid,clip_score,num_real,num_gen,gen_dir
+smoke_p2-p3-replay_D-Sub-25_seed42,360.4246,,25,6,kmc_lora\results\refinement_search\smoke_p2-p3-replay_D-Sub-25_seed42\generated

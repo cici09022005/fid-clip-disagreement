@@ -1,0 +1,2 @@
+phase,steps,lr,image_list,elapsed_sec
+phase2,1200,0.0001,kmc_lora\artifacts\split_phases\D-Sub-50\phase2.txt,490.5

@@ -1,0 +1,7 @@
+dataset,suite,strategy,split,seed,rank,total_steps,status,elapsed_sec,output_dir,fid,clip_score
+dreambooth_mixed,multi_seed,Random_D-High,D-High,42,8,800,ok,817.8,<project_root>\hac_lora\results\reviewer_followups\robustness\dreambooth_mixed\multi_seed\Random_D-High_seed42,220.3825,0.169
+dreambooth_mixed,multi_seed,Random_D-High,D-High,52,8,800,ok,796.5,<project_root>\hac_lora\results\reviewer_followups\robustness\dreambooth_mixed\multi_seed\Random_D-High_seed52,224.0872,0.1789
+dreambooth_mixed,multi_seed,Random_D-High,D-High,62,8,800,ok,799.5,<project_root>\hac_lora\results\reviewer_followups\robustness\dreambooth_mixed\multi_seed\Random_D-High_seed62,221.8451,0.1689
+dreambooth_mixed,multi_seed,HAC_D-High,D-High,42,8,800,ok,815.7,<project_root>\hac_lora\results\reviewer_followups\robustness\dreambooth_mixed\multi_seed\HAC_D-High_seed42,226.299,0.17
+dreambooth_mixed,multi_seed,HAC_D-High,D-High,52,8,800,ok,814.3,<project_root>\hac_lora\results\reviewer_followups\robustness\dreambooth_mixed\multi_seed\HAC_D-High_seed52,230.9217,0.1708
+dreambooth_mixed,multi_seed,HAC_D-High,D-High,62,8,800,ok,811.7,<project_root>\hac_lora\results\reviewer_followups\robustness\dreambooth_mixed\multi_seed\HAC_D-High_seed62,231.2887,0.1656
