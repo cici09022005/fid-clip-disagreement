@@ -65,9 +65,11 @@ figures can be regenerated without re-running training or image generation.
 
 The **Anime-Student** dataset was collected by the authors and is **not
 redistributed here**; it is available from the corresponding author upon
-reasonable request. The **WikiArt-Mixed**, **DreamBooth-Mixed**, and
-**DreamBooth-Single** datasets are derived from third-party sources and should
-be obtained under their original licenses. Trained LoRA adapters and Stable
+reasonable request. The **WikiArt-Mixed** dataset is derived from the WikiArt collection
+(https://www.wikiart.org), and the **DreamBooth-Mixed** and
+**DreamBooth-Single** datasets are derived from the official DreamBooth
+dataset (https://github.com/google/dreambooth); all three should be obtained
+under their original licenses. Trained LoRA adapters and Stable
 Diffusion / SDXL weights are not included; the base models are available from
 their official releases.
 
